@@ -153,6 +153,9 @@ h4 {
     letter-spacing: 2px;
     border-radius: 0;
     font-family: Montserrat, sans-serif;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
 .navbar li a,
@@ -293,7 +296,8 @@ footer .glyphicon {
 
 #footer {
     border-top: 2px solid black;
-    background-color: rgba(244, 81, 30, 0.7);
+    background-color: #d9edf7;
+    padding: 10px;
 }
 
 #footer .container-fluid {
@@ -317,12 +321,28 @@ footer .glyphicon {
 }
 
 #myNavbar a:hover {
-    color: #ffffff;
+    color: #f4511e;
     margin: 5px;
     text-decoration: none;
 }
 
+.hero-content {
+    max-width: 720px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 15px;
+    background: #ffffff9e;
+}
+
+
+
 @media (min-width: 768px) {
+
+    .navbar-brand
+    {
+        margin-top: 5px;
+    }
+
     .text-md-left {
         text-align: left !important;
     }
