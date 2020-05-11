@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccb8dca-2579-43e9-9b3f-451ec88be733" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/option2/assets/img/OfferLabs-inline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/option2/assets/img/favicone.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/OfferLabs-inline-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/OfferLabs-inline-footer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/OfferLabs-inline.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/OfferLabs-inline.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/OfferLabs-stacked-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/OfferLabs-stacked-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/back-center-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/back-center-top.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/black.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/black.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/everflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/everflow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/linktrust.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/linktrust.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/offerspace.png" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/offerspace.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/test6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/images/test6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/option1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/option1/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/option1/assets/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/option1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/option1/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,39 +18,12 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/option1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="319" column="32" lean-forward="true" selection-start-line="306" selection-end-line="319" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/option2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="283" column="40" selection-start-line="283" selection-start-column="40" selection-end-line="283" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/option2/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/option2/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-87">
-              <caret line="1062" column="22" lean-forward="true" selection-start-line="1062" selection-start-column="22" selection-end-line="1062" selection-end-column="22" />
+            <state relative-caret-position="166">
+              <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -69,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/option1/assets/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="283" column="22" selection-start-line="283" selection-start-column="22" selection-end-line="283" selection-end-column="22" />
+            <state relative-caret-position="82">
+              <caret line="332" column="18" lean-forward="true" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -94,6 +56,11 @@
       <find>footer-info</find>
       <find>#clients img</find>
       <find>main-nav</find>
+      <find>our new</find>
+      <find>footer</find>
+      <find>my</find>
+      <find>logo-image</find>
+      <find>.logo-image-footer img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +74,8 @@
         <option value="$PROJECT_DIR$/option2/assets/css/style.css" />
         <option value="$PROJECT_DIR$/option2/assets/js/main.js" />
         <option value="$PROJECT_DIR$/option2/index.html" />
+        <option value="$PROJECT_DIR$/option1/assets/css/home.css" />
+        <option value="$PROJECT_DIR$/option1/index.html" />
       </list>
     </option>
   </component>
@@ -116,17 +85,39 @@
     <option name="width" value="1280" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
               <item name="umairTasks-DigitalAdvertiser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umairTasks-DigitalAdvertiser" type="462c0819:PsiDirectoryNode" />
+              <item name="option1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umairTasks-DigitalAdvertiser" type="462c0819:PsiDirectoryNode" />
+              <item name="option1" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umairTasks-DigitalAdvertiser" type="462c0819:PsiDirectoryNode" />
+              <item name="option1" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
@@ -146,35 +137,28 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="umairTasks-DigitalAdvertiser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="umairTasks-DigitalAdvertiser" type="462c0819:PsiDirectoryNode" />
-              <item name="option2" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/option2/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/option1/assets/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/option2/assets/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/option1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/option1/assets/images" />
+      <recent name="$PROJECT_DIR$/option2/assets/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,7 +183,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588234266607</updated>
-      <workItem from="1588234269195" duration="5276000" />
+      <workItem from="1588234269195" duration="6631000" />
+      <workItem from="1588253608360" duration="53000" />
+      <workItem from="1588582080428" duration="2762000" />
+      <workItem from="1588594392077" duration="40000" />
+      <workItem from="1589202411632" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="structure changed">
       <created>1588234840913</created>
@@ -208,24 +196,40 @@
       <option name="project" value="LOCAL" />
       <updated>1588234840913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new option added">
+      <created>1588241931717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588241931717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="favicon updated">
+      <created>1588245710906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588245710906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="option 1 design changes">
+      <created>1588584790669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588584790669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5276000" />
+    <option name="totallyTimeSpent" value="10733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1280" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24313408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2003231" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -233,52 +237,75 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="structure changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="structure changed" />
+    <MESSAGE value="new option added" />
+    <MESSAGE value="favicon updated" />
+    <MESSAGE value="option 1 design changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="option 1 design changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/option1/assets/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="283" column="22" selection-start-line="283" selection-start-column="22" selection-end-line="283" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/option1/assets/images/OfferLabs-inline-footer.png" />
+    <entry file="file://$PROJECT_DIR$/option1/assets/images/OfferLabs-inline.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/option1/index.html">
+    <entry file="file://$PROJECT_DIR$/option2/forms/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="319" column="32" lean-forward="true" selection-start-line="306" selection-end-line="319" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/option2/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="1062" column="22" lean-forward="true" selection-start-line="1062" selection-start-column="22" selection-end-line="1062" selection-end-column="22" />
+        <state relative-caret-position="360">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/option2/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        <state relative-caret-position="795">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/option2/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15930">
+          <caret line="1062" column="22" selection-start-line="1062" selection-start-column="22" selection-end-line="1062" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/option2/assets/img/OfferLabs-inline.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/option2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="283" column="40" selection-start-line="283" selection-start-column="40" selection-end-line="283" selection-end-column="40" />
+        <state relative-caret-position="348">
+          <caret line="249" column="204" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/option1/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="332" column="18" lean-forward="true" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/option1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
         </state>
       </provider>
     </entry>

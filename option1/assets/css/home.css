@@ -331,7 +331,15 @@ footer .glyphicon {
     margin: auto;
     border-radius: 5px;
     padding: 15px;
-    background: #ffffff9e;
+    background: #ffffffd4;
+}
+
+.hero-btn {
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 110px;
 }
 
 
@@ -357,7 +365,6 @@ footer .glyphicon {
 .logo-image-footer img {
     border-radius: 5px;
     height: 40px;
-    margin-top: -8px;
 }
 
 img {
